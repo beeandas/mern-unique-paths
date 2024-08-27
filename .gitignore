@@ -1,0 +1,3 @@
+# If you have separate client and server folders, add this
+client/node_modules/
+server/node_modules/
